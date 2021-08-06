@@ -18,8 +18,8 @@ A Power manager and UPS for IoT projects<br/><br/>A smart power manager and UPS 
 <br/>USB input detect (3v3 and 5v mcu)
 <br/>input voltage detect
 <br/>voltage sense
-<br/><br/>To ensure full flexibility and versatility,PowerCastle does not feature its own controller. All controls are application dependent
 * **Compact Physical Dimension**
 <br/>53 mm X 95 mm <br/>
+<br/><br/>To ensure full flexibility and versatility, PowerCastle does not feature its own controller. All controls are application dependent<br/>
 ![PowwerCastle_pic](https://user-images.githubusercontent.com/88499684/128438393-10a2e281-13a6-441c-a555-328e18007e9e.png)
 
