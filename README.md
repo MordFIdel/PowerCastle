@@ -20,6 +20,8 @@ An all-purpose Power manager and UPS for IoT projects<br/><br/>A smart power man
 <br/>Battery voltage sense
 * **Compact Physical Dimension**
 <br/>53 mm X 95 mm <br/>
-<br/><br/>To ensure full flexibility and versatility, PowerCastle does not feature its own controller. All controls are application dependent<br/>
-![PowwerCastle_pic](https://user-images.githubusercontent.com/88499684/128438393-10a2e281-13a6-441c-a555-328e18007e9e.png)
-
+<br/><br/>To ensure full flexibility and versatility, PowerCastle does not feature its own controller. All controls are application dependent and fully customizable
+<br/>![PowwerCastle_pic](https://user-images.githubusercontent.com/88499684/128438393-10a2e281-13a6-441c-a555-328e18007e9e.png)
+<br/><br/>
+* **Use cases**
+<br/>PowerCastle is all-purpose, therefore it can be used with virtually all hardware within it power capacity <br/> such as mobile and remote systems, autonomous robot, breakout boards, sensors etc. Below, firmware update is done seemlessly without having to first switch/power down the Arduino Uno board and the Raspberry Pi or safe bootloader upload for custom boards.
