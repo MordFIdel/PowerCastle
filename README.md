@@ -20,12 +20,15 @@ An all-purpose Power manager and UPS for IoT projects<br/><br/>A smart power man
 <br/>Battery voltage sense (3v3 and 5v mcu)
 * **Compact Physical Dimension**
 <br/>53 mm X 95 mm <br/>
-<br/><br/>To ensure full flexibility and versatility, PowerCastle does not feature its own controller. All controls are application dependent and fully customizable by the user.
+<br/>To ensure full flexibility and versatility, PowerCastle does not feature its own controller. All controls are application dependent and fully customizable by the user.
 <br/>![PowwerCastle_pic](https://user-images.githubusercontent.com/88499684/128438393-10a2e281-13a6-441c-a555-328e18007e9e.png)
 <br/><br/>
 * **Use Cases**
 <br/>PowerCastle is all-purpose, therefore it can be used with virtually all hardware within it power capacity <br/> such as mobile and remote systems, autonomous robot, breakout boards, sensors etc. Below, firmware update is done seemlessly without having to first switch/power down the Arduino Uno board. This is applicable to Raspberry Pi or to perform safe bootloader upload for custom boards.
-<br/><br/> The controls, accessible via the standard 8-pin, 2.54mm female header makes the PowerCastle application felexible. Each individual outputs can be switched independently via attached host MCU, USB input power is detectable, battery voltage level is measured via ADC, charging unit is controllable via host MCU.
+<br/><br/> The controls, accessible via the standard 8-pin, 2.54mm female header makes the PowerCastle application flexible. Each individual outputs can be switched independently via attached host MCU, USB input power is detectable, battery voltage level is measured via ADC, charging unit is controllable via host MCU.
 <br/><br/>
 ![Power_in_the_loop](https://user-images.githubusercontent.com/88499684/128581765-8858691c-b717-4b83-b27b-a0ea01307167.jpg)
+<br/><br/>
+![20210807_135252](https://user-images.githubusercontent.com/88499684/128600963-79a5fda9-9ac6-4260-85a1-8ba452b591c7.jpg)
+
 
