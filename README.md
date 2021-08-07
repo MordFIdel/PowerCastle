@@ -13,7 +13,7 @@ An all-purpose Power manager and UPS for IoT projects<br/><br/>A smart power man
 <br/>OverCharge protection
 <br/>Auto-adjust charge parameters
 * **Power Manager**
-<br/>Zero delay between switching
+<br/>Zero delay between switching (battery/external power)
 <br/>Independent output control
 <br/>Charger control
 <br/>USB input detect (3v3 and 5v mcu)
