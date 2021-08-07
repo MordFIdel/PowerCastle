@@ -14,10 +14,10 @@ An all-purpose Power manager and UPS for IoT projects<br/><br/>A smart power man
 <br/>Auto-adjust charge parameters
 * **Power Manager**
 <br/>Zero delay between switching (battery/external power)
-<br/>Independent output control
+<br/>Independent outputs control
 <br/>Charger control
 <br/>USB input detect (3v3 and 5v mcu)
-<br/>Battery voltage sense
+<br/>Battery voltage sense (3v3 and 5v mcu)
 * **Compact Physical Dimension**
 <br/>53 mm X 95 mm <br/>
 <br/><br/>To ensure full flexibility and versatility, PowerCastle does not feature its own controller. All controls are application dependent and fully customizable by the user.
@@ -25,6 +25,7 @@ An all-purpose Power manager and UPS for IoT projects<br/><br/>A smart power man
 <br/><br/>
 * **Use Cases**
 <br/>PowerCastle is all-purpose, therefore it can be used with virtually all hardware within it power capacity <br/> such as mobile and remote systems, autonomous robot, breakout boards, sensors etc. Below, firmware update is done seemlessly without having to first switch/power down the Arduino Uno board. This is applicable to Raspberry Pi or to perform safe bootloader upload for custom boards.
+<br/><br/> The controls, accessible via the standard 8-pin, 2.54mm female header makes the PowerCastle application felexible. Each individual outputs can be switched independently via attached host MCU, USB input power is detectable, battery voltage level is measured via ADC, charging unit is controllable via host MCU.
 <br/><br/>
 ![Power_in_the_loop](https://user-images.githubusercontent.com/88499684/128581765-8858691c-b717-4b83-b27b-a0ea01307167.jpg)
 
