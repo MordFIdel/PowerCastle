@@ -26,4 +26,5 @@ An all-purpose Power manager and UPS for IoT projects<br/><br/>A smart power man
 * **Use Cases**
 <br/>PowerCastle is all-purpose, therefore it can be used with virtually all hardware within it power capacity <br/> such as mobile and remote systems, autonomous robot, breakout boards, sensors etc. Below, firmware update is done seemlessly without having to first switch/power down the Arduino Uno board. This is applicable to Raspberry Pi or to perform safe bootloader upload for custom boards.
 <br/><br/>
-![Power_in_the_loop](https://user-images.githubusercontent.com/88499684/128580777-aea63425-749b-49c6-b430-0714135c1fd2.jpg)
+![Power_in_the_loop](https://user-images.githubusercontent.com/88499684/128581765-8858691c-b717-4b83-b27b-a0ea01307167.jpg)
+
